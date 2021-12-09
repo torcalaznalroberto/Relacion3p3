@@ -1,0 +1,16 @@
+div.menu{
+    background-color: #DCDCDC;
+    border: 0.5px solid #C0C0C0;
+    padding: 3px;
+}
+
+span#ant{
+    float: right;
+}
+
+span#sig{
+    float: left;
+}
+div.clear{
+    clear: both;
+}

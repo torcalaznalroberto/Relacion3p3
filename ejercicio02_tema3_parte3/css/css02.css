@@ -1,0 +1,16 @@
+p {
+    line-height: 3.5;
+}
+.ej a:link {    
+    color:  #CC0000;
+    text-decoration: underline;
+}
+.ej a:visited {
+    color: #CCC;
+    text-decoration: underline;
+}
+.ej a:hover {
+    color: #FFFF;
+    text-decoration: underline;
+    background-color: #CC0000;
+}
